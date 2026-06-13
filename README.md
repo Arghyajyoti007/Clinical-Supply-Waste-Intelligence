@@ -8,6 +8,17 @@
 
 ---
 
+## 📊 Dashboard Access
+
+[![PDF Dashboard](https://img.shields.io/badge/View%20Dashboard%20PDF-Download-E74C3C?style=for-the-badge)](powerbi/Health%20Clinic%20Waste%20Management%20Dashboard.pdf)
+
+[![Live Report](https://img.shields.io/badge/Live%20Report-Microsoft%20Fabric-0A2342?style=for-the-badge&logo=powerbi)](https://app.fabric.microsoft.com/links/TagfPYfxWl?source=linkShare&bookmarkGuid=7e9d90e0-1d33-4a0e-8fbc-ee3505f3fee0)
+
+> 📌 PDF version is publicly accessible.
+> Live report requires Microsoft account login.
+
+---
+
 ## 📌 Business Problem
 
 A mid-size hospital network (**Med-Core Health Network**) was losing an estimated **$10.8M annually** due to pharmaceutical and medical supply waste — expired medications, overstocked wards, and poor demand forecasting across 5 hospitals and 7 ward types.
